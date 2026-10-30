@@ -11,7 +11,6 @@ The project demonstrates the complete machine learning workflow, from data prepr
 ## Objectives
 
 - Store and manipulate data using **NumPy** and **Pandas**.
-- Perform database operations using **SQLite**, including reading, writing, and modifying records.
 - Conduct exploratory data analysis to understand price distributions, location effects, feature relationships, and outliers.
 - Understand the available features and investigate feature reduction.
 - Train and compare multiple machine learning regression models.
@@ -25,7 +24,6 @@ The project demonstrates the complete machine learning workflow, from data prepr
 - NumPy
 - Pandas
 - Matplotlib and Seaborn
-- SQLite
 - Scikit-learn
 - Jupyter Notebook
 - Joblib
